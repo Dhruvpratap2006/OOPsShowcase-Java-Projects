@@ -12,9 +12,12 @@ This repository showcases practical implementations of OOPs concepts in Java.
 
 ---
 
-## 📌 Projects
+## 📂 Project Categories
 
-### 1. ComplexNumbers
+### **1️⃣ Basic Projects**
+Simple foundational OOPs projects demonstrating classes, objects, and encapsulation.
+
+#### ComplexNumbers
 **Concepts used:** Classes, Objects, Static Methods, Encapsulation  
 
 **Features:**  
@@ -24,10 +27,10 @@ This repository showcases practical implementations of OOPs concepts in Java.
 **Description:**  
 Implementation of a `Complex` class to perform arithmetic operations on complex numbers.
 
+### **2️⃣ Minor Projects**
+Projects demonstrating inheritance, abstraction, and method overriding.
 
----
-
-### 2. ShapeHierarchy
+#### ShapeHierarchy
 **Concepts used:** Abstract Classes, Method Overriding, Polymorphism  
 
 **Features:**  
@@ -41,3 +44,8 @@ Implementation of a `Complex` class to perform arithmetic operations on complex 
 Demonstrates **Abstraction, Inheritance, and Polymorphism** using a shape hierarchy.
 
 
+---
+
+## 🚀 Roadmap
+- More projects will be added to demonstrate **interfaces, abstract classes, and advanced OOPs concepts**.  
+-
