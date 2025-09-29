@@ -24,7 +24,7 @@ Operations on complex numbers using a `Complex` class.
 - Prints complex numbers in a readable format  
 
 **Usage:**
-```java
+
 Complex c = new Complex(2, 3);
 Complex d = new Complex(64, 48);
 
