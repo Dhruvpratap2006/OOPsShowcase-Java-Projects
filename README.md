@@ -25,10 +25,12 @@ This repository showcases practical implementations of OOPs concepts in Java.
 Implementation of a `Complex` class to perform arithmetic operations on complex numbers.
 
 **Sample Output (from original code):**
-```66 + 51i```
-```-62 + -45i```
-```-16 + 288i```
+66 + 51i
+-62 + -45i
+-32 + 288i
 
+markdown
+Copy code
 
 ---
 
@@ -46,9 +48,9 @@ Implementation of a `Complex` class to perform arithmetic operations on complex 
 Demonstrates **Abstraction, Inheritance, and Polymorphism** using a shape hierarchy.
 
 **Sample Output (from original code):**
-```Circle rad is : 2.0```
-```Circle area is : 12.56```
-```Circle perimeter is : 12.56```
+Circle rad is : 2.0
+Circle area is : 12.56
+Circle perimeter is : 12.56
 
 Rectangle length is : 2.0
 Rectangle width is : 3.0
