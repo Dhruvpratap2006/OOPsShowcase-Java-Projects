@@ -23,7 +23,8 @@ Operations on complex numbers using a `Complex` class.
 - Supports addition, subtraction, and multiplication of complex numbers  
 - Prints complex numbers in a readable format  
 
-**Usage:**
+Usuage
+
 
 Complex c = new Complex(2, 3);
 Complex d = new Complex(64, 48);
@@ -36,8 +37,7 @@ Sample Output :
 -62 - 45i
 -32 + 288i
 
-2. ShapeHierarchy
-
+2.	ShapeHierarchy
 Demonstrates Abstraction, Inheritance, and Polymorphism.
 
 Concepts used: Abstract Classes, Method Overriding, Polymorphism
